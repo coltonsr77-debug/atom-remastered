@@ -47,7 +47,7 @@
     "color": "5.0.3",
     "command-palette": "git+https://github.com/atom/command-palette.git#e8920c8",
     "dalek": "file:packages/dalek",
-    "dedent": "^1.7.0",
+    "dedent": "^1.7.1",
     "deprecation-cop": "file:packages/deprecation-cop",
     "dev-live-reload": "file:packages/dev-live-reload",
     "devtron": "1.4.0",
