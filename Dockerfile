@@ -1,4 +1,4 @@
-# VERSION:        0.2
+# VERSION:        0.3
 # DESCRIPTION:    Image to build Atom
 
 FROM ubuntu:24.04
