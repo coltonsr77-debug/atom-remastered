@@ -6,7 +6,7 @@
     "@atom/electron-winstaller": "0.0.1",
     "@octokit/request": "^10.0.7",
     "async": "^3.2.6",
-    "babel-core": "5.8.38",
+    "babel-core": "6.26.3",
     "babel-eslint": "^10.0.1",
     "cheerio": "1.1.2",
     "coffeelint": "1.15.7",
