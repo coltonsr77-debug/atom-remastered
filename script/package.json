@@ -4,7 +4,7 @@
   "dependencies": {
     "7zip-bin": "^4.0.2",
     "@atom/electron-winstaller": "0.0.1",
-    "@octokit/request": "^10.0.7",
+    "@octokit/request": "^10.0.8",
     "async": "^3.2.6",
     "babel-core": "6.26.3",
     "babel-eslint": "^10.0.1",
@@ -26,7 +26,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "fs-admin": "^0.12.0",
     "fs-extra": "9.0.1",
-    "glob": "13.0.3",
+    "glob": "13.0.4",
     "joanna": "0.0.10",
     "klaw-sync": "^7.0.0",
     "legal-eagle": "0.14.0",
