@@ -1,7 +1,7 @@
 # VERSION:        0.3
 # DESCRIPTION:    Image to build Atom
 
-FROM ubuntu:24.04
+FROM ubuntu:26.04
 
 # Install dependencies
 RUN apt-get update && \
