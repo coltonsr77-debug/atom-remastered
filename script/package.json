@@ -4,7 +4,7 @@
   "dependencies": {
     "7zip-bin": "^4.0.2",
     "@atom/electron-winstaller": "0.0.1",
-    "@octokit/request": "^10.0.8",
+    "@octokit/request": "^10.0.9",
     "async": "^3.2.6",
     "babel-core": "6.26.3",
     "babel-eslint": "^10.0.1",
