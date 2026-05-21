@@ -10,7 +10,7 @@
     "publish-release": "^1.6.1",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.5",
-    "semver": "7.8.0",
+    "semver": "7.8.1",
     "yargs": "18.0.0"
   }
 }
